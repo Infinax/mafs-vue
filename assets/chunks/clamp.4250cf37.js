@@ -1,0 +1,1 @@
+import{g as d,t as n}from"./toNumber.4137c702.js";function s(i,a,f){return i===i&&(f!==void 0&&(i=i<=f?i:f),a!==void 0&&(i=i>=a?i:a)),i}var c=s,C=c,t=n;function m(i,a,f){return f===void 0&&(f=a,a=void 0),f!==void 0&&(f=t(f),f=f===f?f:0),a!==void 0&&(a=t(a),a=a===a?a:0),C(t(i),a,f)}var v=m;const g=d(v);export{g as c};
